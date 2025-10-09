@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DinoGurnari !
+- 👋 Hi, I’m @gurnari !
 - 💻 I’m currently working as a cybersecurity engineer.
 - 📫 How to reach me https://www.linkedin.com/in/dinogurnari/
